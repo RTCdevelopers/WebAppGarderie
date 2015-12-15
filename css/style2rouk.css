@@ -1,0 +1,20 @@
+table
+{
+	 border-collapse: separate;
+        border-spacing: 4px 4px; 
+	margin: auto;
+    //border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+	text-align :center;
+   
+   border: 2px italic;
+}
+body
+{
+   // background: url('images/rou.gif');
+    font-family:  Arial, sans-serif;
+    color: #181818;
+	background-color:"20B2AA" ;
+}

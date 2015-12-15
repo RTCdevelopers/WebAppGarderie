@@ -1,0 +1,61 @@
+
+/* Eléments principaux de la page */
+
+body
+{
+   background: url('images/plan1.jpg');
+    
+    color: #181818;
+}
+
+
+
+a{
+	color:#6c2323;	
+} 
+
+
+/* MENU DE NAVIGATION */
+#menu {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	background: /*#a77b7c*/;
+}
+#menu li {
+	display: inline;
+	color: /*#F844BC*/;
+	border-right:#F844BC solid 1px;
+	padding-top:0px;
+	font-size:40px;
+}
+#menu li a {
+	padding: 0px 40px;
+	text-align: ;
+	text-decoration: none;
+	background: /*#a77b7c*/;
+	color: #660000;
+	font-family:informal roman;
+	font-weight:bold;
+}
+#menu li a:hover, #menu li a:focus, #menu li a:active {
+	background:/* #641616*/;
+	text-decoration: underline;
+}
+/* CONTENU DE LA PAGE */
+#contenu {
+	padding:20px;
+}
+h1 {
+	font-family:"informal roman";
+	font-size: 55px;
+	color:/*#FF0000*/ #F844BC;
+	text-align:center;
+	margin-bottom:20px;
+}
+h2 {
+	font-family: "informal roman";
+	font-size: 15px;
+	color:#4d4d4d;
+	font-variant: small-caps;
+}
