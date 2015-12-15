@@ -19,6 +19,8 @@
         <li><a href="contact.php" title="Contact"> Contact</a> </li>
        <li> <a href="activités.php" title="activités"> activités</a></li>
         <li> <a href="inscription.php" title="activités"> inscription</a></li>
+        <li> <a href="BD2.php" title="activités"> Payement</a></li>
+		  <li> <a href="index2.php" title="activités">Emloyee</a></li>
     </ul>
 	</center>
 	<br>
