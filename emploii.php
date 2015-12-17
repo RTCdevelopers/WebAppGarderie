@@ -22,7 +22,9 @@
         <li><a href="Horaire.php" title="Horaire"> Horaire</a> </li>
         <li><a href=" contacts.php" title="Contact"> Contact</a> </li>
        <li> <a href="plan d'etude.php" title="activités"> activités</a></li>
-	   <li> <a href="activités.php" title="activités"> Inscription</a></li>
+	   <li> <a href="inscription.php" title="inscription"> Inscription</a></li>
+	   <li><a href="payement.php" title="payement"> Payement</a></li>
+	   <li><a href="employe.php" title="employe"> Employe</a></li>
     </ul>
 	</center>
 <BODY  height=2000 >
