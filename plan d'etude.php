@@ -10,10 +10,11 @@
  
 </head>
 <body>
+<BODY BACKGROUND=" images/pagedemarage.gif" height=2000 ></BODY>
 <center>
 	<table width=100%>
 	<tr><td width=20%><div align="center"><img src="images/cubee.gif" width=180 height=200></div></td>
-	<td width=80%><MARQUEE  DIRECTION='right' WIDTH='100%' HEIGHT='100' VALIGN='bottom' SCROLLAMOUNT='25' SCROLLDELAY='50'><FONT size=8 face= "timesnew roman"color = "#840000" >  <STRONG> Trésors du quartier</STRONG></MARQUEE></td><tr>
+	<td width=80%><MARQUEE  DIRECTION='right' WIDTH='100%' HEIGHT='100' VALIGN='bottom' SCROLLAMOUNT='20' SCROLLDELAY='30'><FONT size=8 face= "timesnew roman"color = "#840000" >  <STRONG> Trésors du quartier</STRONG></MARQUEE></td><tr>
 	</table>
 
 	<ul id="menu">

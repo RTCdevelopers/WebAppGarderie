@@ -35,22 +35,24 @@
 	</script>
 	 
 </head>
+
 <body>
+<BODY BACKGROUND=" images/pagedemarage.gif" height=2000 ></BODY>
 <?php $con=mysqli_connect("localhost","root","","garderie")or die("Error"); ?> 
 <center>
 	<table width=100%>
 	<tr><td width=20%><div align="center"><img src="images/cubee.gif" width=180 height=200></div></td>
-	<td width=80%><MARQUEE BGCOLOR='FFFFFF' DIRECTION='right' WIDTH='100%' HEIGHT='100' VALIGN='bottom' SCROLLAMOUNT='25' SCROLLDELAY='200'><FONT size=8 face= "timesnew roman"color = "#840000" >  <STRONG> Trésors du quartier</STRONG></MARQUEE></td><tr>
+	<td width=80%><MARQUEE BGCOLOR='FFFFFF' DIRECTION='right' WIDTH='100%' HEIGHT='100' VALIGN='bottom' SCROLLAMOUNT='20' SCROLLDELAY='30'><FONT size=8 face= "timesnew roman"color = "#840000" >  <STRONG> Trésors du quartier</STRONG></MARQUEE></td><tr>
 	</table>
 	</center>
 	<br><br>
 	<center>
 	
 	<ul id="menu">
-      <li><a href="acceuil.php" title="acceuil">acceuil </a> </li>
-        <li><a href="Photo.php" title="Galerie">Galerie</a> </li>
-        <li><a href="emploii.php" title="Horaire"> Horaire</a> </li>
-        <li><a href=" contacts.php" title="Contact"> Contact</a> </li>
+      <li><a href="acceuil.php" title="acceuil">acceuil</a></li>
+        <li><a href="Photo.php" title="Galerie">Galerie</a></li>
+        <li><a href="emploii.php" title="Horaire">Horaire</a></li>
+        <li><a href=" contacts.php" title="Contact">Contact</a></li>
        <li> <a href="plan d'etude.php" title="activités"> activités</a></li>
 	   <li> <a href="inscription.php" title="inscription"> Inscription</a></li>
 	    <li> <a href="BD2.php" title="activités"> Payement</a></li>

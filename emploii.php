@@ -6,7 +6,7 @@
         <title>Mon garderie</title>
     </head>
     <body >
-	
+	<BODY BACKGROUND=" images/pagedemarage.gif" height=2000 ></BODY>
 	<BODY  height=2000   >
 	<br>
 	<center>

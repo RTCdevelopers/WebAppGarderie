@@ -6,6 +6,7 @@
 <title> Photo </title>
  <style type="text/css">
  
+ 
 		 <style type="text/css">
 		.image_contour{
 			width:650px;
@@ -41,6 +42,7 @@ height:550px;
 	</style>
 </head>
 <body>
+<BODY BACKGROUND=" images/pagedemarage.gif" height=2000 ></BODY>
 <center>
 	<table width=100%>
 	<tr><td width=20%><div align="center"><img src="images/cubee.gif" width=180 height=200></div></td>

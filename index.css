@@ -1,0 +1,125 @@
+{margin:0;padding:0;  }
+body{
+	padding: auto;
+	margin:  auto;
+	font-family: sans-serif;
+	box-sizing:border-box;
+	overflow: hidden; 
+}
+div.containerA{
+	padding: 0;
+	margin: auto;
+	margin-top: 5%;
+	width: 300px;
+	background: #fafafa;
+	border: 1px, solid lightgrey;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0,1);
+	border-radius: 5px;
+
+}
+div.containerB{
+	padding: 0;
+	margin: auto;
+	margin-top: 5%
+	width:300px;
+	background: #fafafa;
+	border: 1px solid lightgrey;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0,1);
+	border-radius: 5px;
+
+
+}
+div.header{
+	background: -webkit-linear-gradient(45deg,#f38382,#f38382);
+	background: -moz-linear-gradient(45deg,#19b797,#10745f);
+	border-radius: 5px 5px 0px 0px;
+}
+div.header> h1{
+	text-align: center;
+	color: #fff;
+	font-weight: normal;
+	padding: 20px 20px;
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,.2);
+
+}
+div.connexion{
+	padding: 10px 20px;
+	padding-bottom: 20px;
+}
+div.inscription{
+	padding: 10px 20px;
+	padding-bottom: 20px;
+}
+label{
+	color: #575757
+	font-size:16px;
+	display: table;
+	margin-top: 10px;
+	margin-bottom: 5px;
+
+}
+input[text="text"], input[type="password"]{
+	display: block;
+	height: 30px;
+	font-size: 18px;
+	text-indent: 10px;
+	width: 200px;
+	border-radius: 3px;
+	border: 1px solid lightgrey;
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,.1) inset;
+	color: #2b2b2b;
+	outline: none;
+	-webkit-transition: .2s; 
+}
+input[text="text"], input[type="text"]{
+	display: block;
+	height: 30px;
+	font-size: 18px;
+	text-indent: 10px;
+	width: 200px;
+	border-radius: 3px;
+	border: 1px solid lightgrey;
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,.1) inset;
+	color: #2b2b2b;
+	outline: none;
+	-webkit-transition: .2s; 
+}
+input[type="text"]:focus, input[type="password"]:focus{
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,.1);
+}
+.footer{
+	background: #ecf0f1;
+	padding: 10px 20px;
+
+}
+#insc, #co{
+	font-size: 14px;
+	color: #575757;
+}
+input[type="submit"]{
+	border-radius: 3px;
+	background: -webkit-linear-gradient(bottom,#f38382,#f38382);
+	background: -moz-linear-gradient(bottom,#16a184,#138b72);
+	color: #fafafa;
+	padding: 10px 20px;
+	font-size: 18px;
+	border: 1px solid #f38382 ;
+	float: right;
+	outline: none;
+	cursor: pointer;
+	box-shadow: -2px 2px 5px 0px rgba(0,0,0,.4);
+
+}
+footer{
+	padding: 0;
+	margin: auto;
+	margin-top: 3px;
+	width: 450px;
+	background: #fafafa;
+	border: 1px solid lightgrey;
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,.1);
+	border-radius: 5px;
+	padding: 10px 0px;
+	color: #575757;
+	text-indent: 20px;
+}
